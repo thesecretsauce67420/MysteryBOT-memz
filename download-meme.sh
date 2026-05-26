@@ -1,0 +1,1 @@
+curl -fsSL "$1" > $2.png
